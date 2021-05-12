@@ -2,5 +2,3 @@ This is Spring Integration demo project.
 
 After you run project
 use url http://localhost:8080/integrate/Prakash
-
-Changed from github side.
